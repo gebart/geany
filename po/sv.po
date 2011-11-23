@@ -462,7 +462,7 @@ msgstr "Öppna fil"
 
 #: ../src/dialogs.c:368 ../src/interface.c:877
 msgid "_View"
-msgstr "Visa"
+msgstr "_Visa"
 
 #: ../src/dialogs.c:370
 msgid ""
@@ -1069,7 +1069,7 @@ msgstr "Färger"
 
 #: ../src/interface.c:328
 msgid "_File"
-msgstr "Arkiv"
+msgstr "_Arkiv"
 
 #: ../src/interface.c:339
 msgid "New (with _Template)"
@@ -1111,11 +1111,11 @@ msgstr "Stäng alla"
 
 #: ../src/interface.c:463 ../src/interface.c:2273
 msgid "_Edit"
-msgstr "Redigera"
+msgstr "_Redigera"
 
 #: ../src/interface.c:513
 msgid "_Commands"
-msgstr "Kommandon"
+msgstr "_Kommandon"
 
 #: ../src/interface.c:520 ../src/keybindings.c:336
 msgid "_Cut Current Line(s)"
@@ -1147,7 +1147,7 @@ msgstr "Skicka markeringen till terminalen"
 
 #: ../src/interface.c:566 ../src/interface.c:2277
 msgid "_Format"
-msgstr "Format"
+msgstr "_Format"
 
 #: ../src/interface.c:573 ../src/keybindings.c:390
 msgid "_Reflow Lines/Block"
@@ -1239,7 +1239,7 @@ msgstr "Inställningar för insticksmoduler"
 
 #: ../src/interface.c:740 ../src/interface.c:2369
 msgid "_Search"
-msgstr "Sök"
+msgstr "_Sök"
 
 #: ../src/interface.c:751
 msgid "Find _Next"
@@ -1360,7 +1360,7 @@ msgstr "Visa indragsmarkörer"
 
 #: ../src/interface.c:966
 msgid "_Document"
-msgstr "Dokument"
+msgstr "_Dokument"
 
 #: ../src/interface.c:973
 msgid "_Line Wrapping"
@@ -1492,7 +1492,7 @@ msgstr "Ta bort felindikatorer"
 
 #: ../src/interface.c:1191
 msgid "_Project"
-msgstr "Projekt"
+msgstr "_Projekt"
 
 #: ../src/interface.c:1198
 msgid "_New"
@@ -1544,7 +1544,7 @@ msgstr "Ladda taggar"
 
 #: ../src/interface.c:1293 ../src/interface.c:1300
 msgid "_Help"
-msgstr "Hjälp"
+msgstr "_Hjälp"
 
 #: ../src/interface.c:1308
 msgid "_Website"
