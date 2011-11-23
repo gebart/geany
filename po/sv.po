@@ -4787,7 +4787,7 @@ msgstr ""
 #. RO = read-only
 #: ../src/ui_utils.c:205 ../src/ui_utils.c:212
 msgid "RO "
-msgstr "RO"
+msgstr "RO "
 
 #. OVR = overwrite/overtype, INS = insert
 #: ../src/ui_utils.c:207
